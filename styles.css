@@ -62,3 +62,19 @@ body {
 .done {
   background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
 }
+
+.hold {
+  background-color: greenyellow;
+  color: #010101;
+  border: 6px solid #fff;
+  font-weight: 400;
+}
+
+.hide {
+  display: none;
+}
+
+.hovered {
+  border-radius: 1px;
+  border-top: 4px solid rgba(253, 29, 29, .86);
+}
